@@ -1,0 +1,73 @@
+body {
+  background-image: url(http://orig01.deviantart.net/76ee/f/2014/269/8/e/league_of_legends__clashing_winds_by_ae_rie-d70x719.png);
+  background-size: 100% 100%;
+}
+
+* {
+  font-family: Verdana;
+  color: #000000;
+}
+
+div.home {
+  margin: 30px;
+  background-color: #ffffff;
+  opacity: 0.6;
+}
+
+div.champions {
+  margin: 30px;
+  background-color: #ffffff;
+  opacity: 0.6;
+}
+
+ div.skins {
+   margin: 30px;
+   background-color: #ffffff;
+   opacity: 0.6;
+ }
+
+div.items {
+  margin: 30px;
+  background-color: #ffffff;
+  opacity: 0.6;
+}
+
+div.runesmasteries {
+  margin: 30px;
+  background-color: #ffffff;
+  opacity: 0.6;
+}
+
+div.requirements {
+  margin: 30px;
+  background-color: #ffffff;
+  opacity: 0.6;
+}
+
+h1 {
+  font-size: 50px;
+}
+
+a {
+  text-decoration: none;
+  color: red;
+}
+
+button {
+  background-color: #000000;
+  border: none;
+  color: #ffc199;
+  padding: 15px 47px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+img {
+  height: 600px;
+  width: 900px;
+  padding-left: 30px;
+}
